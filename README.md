@@ -25,6 +25,92 @@ SCARA MANIPULATOR
 
 >The SCARA manipulator, known for its Selective Compliance Assembly Robot Arm structure, offers a compelling blend of high-speed operation and efficient workspace utilization. This design prioritizes rapid picking and placing tasks within a cylindrical workspace, making it ideal for applications like assembly lines and pick-and-place automation.
 
+<h2 align= center>
+SOLVING THE DEGREES OF FREEDOM OF A SCARA MANIPULATOR
+
+###
+
+DESCRIPTION
+
+*HOW TO SOLVE THE DEGREES OF FREEDOM OF A SCARA MANIPULATOR?*
+
+
+STEP-BY-STEP PROCESS
+
+
+
+*STEP 1: Identify the number of m joints and n rigid moving links of the manipulator.
+
+*STEP 2: Identify the number of constraints of the joint present in the manipulator.
+
+	For Spatial:						
+	[6-Ci]							
+ 	For Panar:
+	[3-Ci]							
+*STEP 3: Compute the mobility of the manipulator with the use of grubler’s criterion.
+
+	For Spatial:						For Planar:
+	M= 6n-i=1m(6-Ci)					M= 3n-i=1m(3-Ci)
+
+<h2 align= center>
+ DH FRAME RULES OF SCARA MANIPULATOR
+
+###
+DESCRIPTION
+
+HOW TO ASSIGN THE FRAMES OF A SCARA MANIPULATOR?
+
+
+
+STEP-BY-STEP PROCESS
+
+DENAVIT-HARTENBERG (DH) PRELIMINARY RULES
+
+RULE 1: Decide first the 3 views you want to project on your isometric drawing.
+
+RULES 2: Identify the center of the frames.
+
+RULE 3: Then draw your color coded arrows based on your decided 3 views.
+
+RULES 4: Remember to make the arrows of Z and X axes easy to see for future computations.
+
+ㅤ ㅤ
+
+DENAVIT-HARTENBERG (DH) FRAME RULES
+
+RULE 1: The Z axis must be the axis of rotation for a revolute/twisting, or the direction of translation for a prismatic joint.
+
+RULE 2: The X axis must be perpendicular both to its own Z axis and the Z axis of the frame before it.
+
+RULE 3: Rules for complying: Each X axis must intersect the Z axis of the frame before it. Rotate the axis until it hits the other Or translate the axis until it hits the other
+
+RULE 4: All frames must follow the right-hand rule
+
+
+<h2 align= center>
+DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
+
+
+
+###
+DESCRIPTION
+
+HOW TO OBTAIN THE DENAVIT-HARTENBERG PARAMETRIC TABLE OF A SCARA MANIPULATOR?
+
+
+‣ STEP-BY-STEP PROCESS
+
+DENAVIT-HARTENBERG NOTATION
+
+STEP 1: Assign frames according to the 4 D-H frmae rules (On Task 2)
+
+STEP 2: Fill out the D-H Parametric Table (On Task 3)
+
+STEP 3: Plug the table into the Homogeneous Transformation Matrix (On Task 4)
+
+STEP 4: Multiply the matrices together (On task 4)
+
+
 <h2 align= center> CONCLUSION
 
 
