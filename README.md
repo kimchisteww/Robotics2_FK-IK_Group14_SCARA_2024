@@ -25,8 +25,9 @@ SCARA MANIPULATOR
 
 >The SCARA manipulator, known for its Selective Compliance Assembly Robot Arm structure, offers a compelling blend of high-speed operation and efficient workspace utilization. This design prioritizes rapid picking and placing tasks within a cylindrical workspace, making it ideal for applications like assembly lines and pick-and-place automation.
 
-<h2 align= center> ABSTRACT
+<h2 align= center> CONCLUSION
 
 
 ###
-In conclusion, creating a calculator that can efficiently calculate the forward and inverse kinematics of a SCARA manipulator is a valuable tool for engineers and researchers working in the field of robotics. This calculator can provide quick and accurate solutions to complex mathematical problems, allowing users to focus more on the design and implementation of their robot rather than tedious calculations. By automating these calculations, the calculator can streamline the design process and improve the overall efficiency of developing a SCARA manipulator. Ultimately, this tool has the potential to revolutionize the way robots are designed and constructed, making it an invaluable asset in the field of robotics.
+
+>In conclusion, creating a calculator that can efficiently calculate the forward and inverse kinematics of a SCARA manipulator is a valuable tool for engineers and researchers working in the field of robotics. This calculator can provide quick and accurate solutions to complex mathematical problems, allowing users to focus more on the design and implementation of their robot rather than tedious calculations. By automating these calculations, the calculator can streamline the design process and improve the overall efficiency of developing a SCARA manipulator. Ultimately, this tool has the potential to revolutionize the way robots are designed and constructed, making it an invaluable asset in the field of robotics.
