@@ -88,7 +88,7 @@ RULE 4: All frames must follow the right-hand rule
 
 
 <h2 align= center>
-DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
+DH PARAMETRIC TABLE OF SCARA MANIPULATOR
 
 
 
