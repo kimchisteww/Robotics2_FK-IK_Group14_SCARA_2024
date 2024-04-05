@@ -4,9 +4,9 @@ SCARA MANIPULATOR
 
 ###
 
-  
-<img align="center" height="300" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157762869/76a4d609-c8b1-4926-ab53-be6296825689"/>
-<p align="center">
+<p align="center">  
+<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157762869/76a4d609-c8b1-4926-ab53-be6296825689"/>
+
 
 <h2 align= center> INTRODUCTION
 
