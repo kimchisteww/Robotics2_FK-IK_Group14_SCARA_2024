@@ -110,6 +110,11 @@ STEP 3: Plug the table into the Homogeneous Transformation Matrix (On Task 4)
 
 STEP 4: Multiply the matrices together (On task 4)
 
+<h2 align= center>
+ HOMOGENEOUS TRANSFORMATION MATRIX OF SCARA MANIPULATOR
+
+ 
+
 
 <h2 align= center> CONCLUSION
 
