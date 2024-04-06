@@ -115,6 +115,10 @@ STEP 4: Multiply the matrices together (On task 4)
 <h2 align= center>
  HOMOGENEOUS TRANSFORMATION MATRIX OF SCARA MANIPULATOR
 
+
+ <h2 align= center>
+  INVERSE KINEMATICS OF SCARA MANIPULATOR
+
  
 
 
