@@ -88,6 +88,10 @@ RULE 3: Rules for complying: Each X axis must intersect the Z axis of the frame 
 
 RULE 4: All frames must follow the right-hand rule
 
+<h2 align= center>
+	
+![image](https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/0b617a85-cfb3-4f36-bfab-3712ad15473d)
+
 
 <h2 align= center>
 DH PARAMETRIC TABLE OF SCARA MANIPULATOR
