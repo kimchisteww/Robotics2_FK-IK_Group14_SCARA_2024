@@ -53,10 +53,11 @@ STEP-BY-STEP PROCESS
 
 	For Spatial:						For Planar:
 	M= 6n-i=1m(6-Ci)					M= 3n-i=1m(3-Ci)
+ 
 
- <div align="center">
-    <img src="https://skillicons.dev/icons?i= gdrive
-
+(![image](https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/e98889fc-1d3d-4384-8dc1-e66958793b91)
+)](https://drive.google.com/drive/folders/1RLEHSf0KNVIzPiYxCjKO6h-xVOIPxxNA?usp=sharing)
+ 
 <h2 align= center>
  DH FRAME RULES OF SCARA MANIPULATOR
 
@@ -121,6 +122,8 @@ STEP 4: Multiply the matrices together (On task 4)
 
 <h2 align= center>
  HOMOGENEOUS TRANSFORMATION MATRIX OF SCARA MANIPULATOR
+the homogeneous transformation matrix is a powerful tool that combines rotation and translation. This allows for a compact way to represent the position and orientation of a robot arm link and efficiently perform coordinate transformations between different frames. This makes it crucial for tasks like robot control and analyzing complex movements.
+
 
 
  <h2 align= center>
