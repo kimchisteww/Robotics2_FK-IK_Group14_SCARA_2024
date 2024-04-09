@@ -122,6 +122,10 @@ STEP 4: Multiply the matrices together (On task 4)
 
 <h2 align= center>
  HOMOGENEOUS TRANSFORMATION MATRIX OF SCARA MANIPULATOR
+
+ 
+###
+
 the homogeneous transformation matrix is a powerful tool that combines rotation and translation. This allows for a compact way to represent the position and orientation of a robot arm link and efficiently perform coordinate transformations between different frames. This makes it crucial for tasks like robot control and analyzing complex movements.
 
 
