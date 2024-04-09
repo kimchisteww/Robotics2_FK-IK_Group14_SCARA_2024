@@ -54,6 +54,9 @@ STEP-BY-STEP PROCESS
 	For Spatial:						For Planar:
 	M= 6n-i=1m(6-Ci)					M= 3n-i=1m(3-Ci)
 
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i= gdrive
+
 <h2 align= center>
  DH FRAME RULES OF SCARA MANIPULATOR
 
