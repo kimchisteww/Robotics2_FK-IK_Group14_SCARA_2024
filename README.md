@@ -54,9 +54,8 @@ STEP-BY-STEP PROCESS
 	For Spatial:						For Planar:
 	M= 6n-i=1m(6-Ci)					M= 3n-i=1m(3-Ci)
  
-
-(![image](https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/e98889fc-1d3d-4384-8dc1-e66958793b91)
-)](https://drive.google.com/drive/folders/1RLEHSf0KNVIzPiYxCjKO6h-xVOIPxxNA?usp=sharing)
+<h2 align= center>
+<a href="https://drive.google.com/drive/folders/1RLEHSf0KNVIzPiYxCjKO6h-xVOIPxxNA?usp=sharing"><strong> Video for SCARA Manipulator </strong></a>
  
 <h2 align= center>
  DH FRAME RULES OF SCARA MANIPULATOR
