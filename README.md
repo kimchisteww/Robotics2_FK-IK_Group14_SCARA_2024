@@ -53,7 +53,12 @@ STEP-BY-STEP PROCESS
 
 	For Spatial:						For Planar:
 	M= 6n-i=1m(6-Ci)					M= 3n-i=1m(3-Ci)
+
+<h2 align= center> FIGURE 1 : SCARA DOF CALCULATION
  
+<p align="center">  
+<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/ddfb25c3-ed85-4204-99b2-c1f594e715bc"/>
+
 <h2 align= center>
 <a href="https://drive.google.com/drive/folders/1RLEHSf0KNVIzPiYxCjKO6h-xVOIPxxNA?usp=sharing"><strong> Video for SCARA Manipulator </strong></a>
  
@@ -91,10 +96,11 @@ RULE 3: Rules for complying: Each X axis must intersect the Z axis of the frame 
 
 RULE 4: All frames must follow the right-hand rule
 
+<h2 align= center> FIGURE 2 : SCARA KINEMATIC DIAGRAM
+
 <h2 align= center>
 	
 <img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/0b617a85-cfb3-4f36-bfab-3712ad15473d"/>
-
 
 <h2 align= center>
 DH PARAMETRIC TABLE OF SCARA MANIPULATOR
@@ -132,6 +138,9 @@ STEP 4: Multiply the matrices together (On task 4)
 
 the homogeneous transformation matrix is a powerful tool that combines rotation and translation. This allows for a compact way to represent the position and orientation of a robot arm link and efficiently perform coordinate transformations between different frames. This makes it crucial for tasks like robot control and analyzing complex movements.
 
+
+<h2 align= center> FIGURE 3 : SCARA D-H PARAMETRIC TABLE
+ 
 <h2 align= center>
 	
 <img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/86c726f1-d78e-4cf7-b23d-0cff0734997b"/>
