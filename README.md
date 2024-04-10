@@ -93,7 +93,7 @@ RULE 4: All frames must follow the right-hand rule
 
 <h2 align= center>
 	
-![image](https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/0b617a85-cfb3-4f36-bfab-3712ad15473d)
+<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/0b617a85-cfb3-4f36-bfab-3712ad15473d"/>
 
 
 <h2 align= center>
@@ -118,6 +118,11 @@ STEP 2: Fill out the D-H Parametric Table (On Task 3)
 STEP 3: Plug the table into the Homogeneous Transformation Matrix (On Task 4)
 
 STEP 4: Multiply the matrices together (On task 4)
+
+<h2 align= center>
+	
+<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/8194cccf-710c-4c8c-8acf-6a64ad0377db"/>
+
 
 <h2 align= center>
  HOMOGENEOUS TRANSFORMATION MATRIX OF SCARA MANIPULATOR
