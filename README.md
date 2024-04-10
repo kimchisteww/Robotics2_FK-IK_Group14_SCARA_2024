@@ -132,6 +132,11 @@ STEP 4: Multiply the matrices together (On task 4)
 
 the homogeneous transformation matrix is a powerful tool that combines rotation and translation. This allows for a compact way to represent the position and orientation of a robot arm link and efficiently perform coordinate transformations between different frames. This makes it crucial for tasks like robot control and analyzing complex movements.
 
+<h2 align= center>
+	
+<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/86c726f1-d78e-4cf7-b23d-0cff0734997b"/>
+
+
 
 
  <h2 align= center>
