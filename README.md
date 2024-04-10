@@ -57,7 +57,7 @@ STEP-BY-STEP PROCESS
 <h2 align= center> FIGURE 1 : SCARA DOF CALCULATION
  
 <p align="center">  
-<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/ddfb25c3-ed85-4204-99b2-c1f594e715bc"/>
+<img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/ddfb25c3-ed85-4204-99b2-c1f594e715bc"/>
 
 <h2 align= center>
 <a href="https://drive.google.com/drive/folders/1RLEHSf0KNVIzPiYxCjKO6h-xVOIPxxNA?usp=sharing"><strong> Video for SCARA Manipulator </strong></a>
@@ -100,7 +100,7 @@ RULE 4: All frames must follow the right-hand rule
 
 <h2 align= center>
 	
-<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/0b617a85-cfb3-4f36-bfab-3712ad15473d"/>
+<img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/0b617a85-cfb3-4f36-bfab-3712ad15473d"/>
 
 <h2 align= center>
 DH PARAMETRIC TABLE OF SCARA MANIPULATOR
@@ -127,7 +127,7 @@ STEP 4: Multiply the matrices together (On task 4)
 
 <h2 align= center>
 	
-<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/8194cccf-710c-4c8c-8acf-6a64ad0377db"/>
+<img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/8194cccf-710c-4c8c-8acf-6a64ad0377db"/>
 
 
 <h2 align= center>
@@ -143,7 +143,7 @@ the homogeneous transformation matrix is a powerful tool that combines rotation 
  
 <h2 align= center>
 	
-<img width="600" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/86c726f1-d78e-4cf7-b23d-0cff0734997b"/>
+<img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/86c726f1-d78e-4cf7-b23d-0cff0734997b"/>
 
 
 
