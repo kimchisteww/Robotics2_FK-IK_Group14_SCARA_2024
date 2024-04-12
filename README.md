@@ -125,6 +125,9 @@ STEP 3: Plug the table into the Homogeneous Transformation Matrix (On Task 4)
 
 STEP 4: Multiply the matrices together (On task 4)
 
+<h2 align= center> FIGURE 3 : SCARA D-H PARAMETRIC TABLE
+ 
+
 <h2 align= center>
 	
 <img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/8194cccf-710c-4c8c-8acf-6a64ad0377db"/>
@@ -138,9 +141,8 @@ STEP 4: Multiply the matrices together (On task 4)
 
 the homogeneous transformation matrix is a powerful tool that combines rotation and translation. This allows for a compact way to represent the position and orientation of a robot arm link and efficiently perform coordinate transformations between different frames. This makes it crucial for tasks like robot control and analyzing complex movements.
 
-
-<h2 align= center> FIGURE 3 : SCARA D-H PARAMETRIC TABLE
- 
+<h2 align= center> FIGURE 4 : SOLUTIONS FOR HOMOGENEOUS TRANSFORMATION MATRIX OF SCARA MANIPULATOR
+	
 <h2 align= center>
 	
 <img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/86c726f1-d78e-4cf7-b23d-0cff0734997b"/>
@@ -151,7 +153,8 @@ the homogeneous transformation matrix is a powerful tool that combines rotation 
  <h2 align= center>
   INVERSE KINEMATICS OF SCARA MANIPULATOR
 
- 
+ <img width="700" height="500" src="https://github.com/kimchisteww/Robotics2_FK-IK_Group14_SCARA_2024/assets/157703948/2c43d910-8473-44f1-9ec8-c1f342e6b279"/>
+
 
 
 <h2 align= center> CONCLUSION
